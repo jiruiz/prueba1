@@ -11,6 +11,7 @@ namespace prueba1ok
         static void Main(string[] args)
         {
             Console.WriteLine("juani");
+            Console.WriteLine("ruiz")
         }
     }
 }
